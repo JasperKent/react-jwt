@@ -7,6 +7,7 @@ table {
   border-radius: 5px;
   padding: 0.5rem;
   margin-top: 0.5rem;
+  border-spacing: 0;
 }
 
 thead th {
@@ -20,7 +21,6 @@ tbody td {
 
 thead tr {
   background-color: gainsboro;
-  position: fixed;
 }
 
 nav a {
